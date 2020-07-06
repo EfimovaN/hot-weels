@@ -13,6 +13,10 @@ body {
 
 }
 
+.none {
+  display: none;
+}
+
 .container {
   max-width: 1060px;
   margin: 0 auto;
@@ -22,6 +26,14 @@ body {
   max-width: 1350px;
   margin: 0 auto;
 }
+
+.container-super-wide {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+
 
 
 
